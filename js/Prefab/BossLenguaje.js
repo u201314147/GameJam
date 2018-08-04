@@ -10,7 +10,7 @@ BossLenguaje=function(game,en){
 	
 	if(en=="yellow1"||en=="yellow2"||en=="yellow3"){
 		this.x=520;
-		this.y=520;
+		this.y=420;
 
 	}
 	

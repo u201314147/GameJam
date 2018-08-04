@@ -39,4 +39,5 @@ BossCreatividad.prototype.update=function(){
 
 			}
 
+		
 	}
